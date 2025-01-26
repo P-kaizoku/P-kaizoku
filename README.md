@@ -7,13 +7,8 @@
 
 - 🔭 I’m currently working on **web development**
 
-- 🌱 I’m currently learning **flask**
-
-- 🤝 I’m looking for help with **artificial intelligence**
-
 - 📫 How to reach me **pabitram322@gmail.com**
 
-- ⚡ Fun fact **I love to play valorant.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
